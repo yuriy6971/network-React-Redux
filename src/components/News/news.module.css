@@ -1,0 +1,11 @@
+.block_news {
+    width: 80%;
+    text-align: center;
+}
+
+.title {
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: gray;
+    text-align: center;
+}

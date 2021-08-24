@@ -1,0 +1,27 @@
+.nav {
+    grid-area: nav;
+    background-color: #36745A;
+    display: flex;
+    flex-direction: column;
+}
+.nav :first-child {
+    margin-bottom: 15px;
+}
+
+.item {
+    
+    text-decoration: none;
+    color: #E7845B;
+    font-size: 1.8rem;
+    font-weight: 600;
+    font-style: italic;
+    margin-top: 20px;
+    padding-left: 20px;
+    cursor: pointer;
+}
+.nav :first-child {
+    margin-top: 35px;
+}
+.activeLink {
+    color: gold;
+}

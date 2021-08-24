@@ -1,0 +1,23 @@
+.head {
+    grid-area: head;
+    background-color: #07B568;
+    display: flex;
+    /* justify-content: space-between; */
+    align-items:center ;
+  
+    font-style: italic;
+}
+.logo {
+    display: flex;
+    align-items: center;
+}
+.pics {
+    height: 110px;
+
+}
+.social {
+    flex: 2;
+    text-align: center;
+    color: #FF5C00;
+    font-size: 2.2rem;
+}

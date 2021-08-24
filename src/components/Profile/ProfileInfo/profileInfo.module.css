@@ -1,0 +1,68 @@
+.profile_info {
+    width: 100%;
+    min-height: 300px;
+    background-color: grey;
+    color: white;
+}
+.pics {
+    display: block;
+    width: 100%;
+    height: 150px;
+}
+.user_info {
+    font-size: 1.4rem;
+    color: wheat;
+    display: flex;
+    
+    margin-top: 15px;
+}
+.pics_user {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.avatar {
+    flex: 1;
+    text-align: center;
+}
+.name_email {
+    flex: 1;
+    text-align: center;
+    
+}
+.address {
+    flex: 1;
+    text-align: center;
+}
+.geo {
+    flex: 1;
+    text-align: center;
+}
+.user_info span {
+    font-size: 1.1rem;
+    color: black;
+}
+.name {
+    font-style: italic;
+    color: yellowgreen;
+    font-size: 1,6rem;
+}
+.user_name {
+    font-size: 1.8rem;
+    font-style: italic;
+    color: tomato;
+}
+.butt_post {
+    
+    
+    font-size: 1.3rem;
+    padding: 5px 8px;
+    border-radius: 4px;
+    background-color :blueviolet;
+    color: white;
+}
+.block {
+    width: inherit;
+    display: flex;
+    justify-content: center;
+}

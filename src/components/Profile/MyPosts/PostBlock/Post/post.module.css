@@ -1,0 +1,22 @@
+.items {
+    display: flex;
+    align-items: center;
+}
+.sign {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: tomato;
+    margin-right: 20px;
+}
+.like {
+    margin-left: 15px;
+}
+
+.title {
+    font-size: 1.1rem;
+    font-weight: bolder;
+}
+.body {
+    padding-bottom: 20px;
+}
