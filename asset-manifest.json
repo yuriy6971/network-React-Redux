@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/network-React-Redux/static/css/main.4bc64d06.chunk.css",
+    "main.js": "/network-React-Redux/static/js/main.30e1fd30.chunk.js",
+    "main.js.map": "/network-React-Redux/static/js/main.30e1fd30.chunk.js.map",
+    "runtime-main.js": "/network-React-Redux/static/js/runtime-main.2689155f.js",
+    "runtime-main.js.map": "/network-React-Redux/static/js/runtime-main.2689155f.js.map",
+    "static/js/2.50b9f26c.chunk.js": "/network-React-Redux/static/js/2.50b9f26c.chunk.js",
+    "static/js/2.50b9f26c.chunk.js.map": "/network-React-Redux/static/js/2.50b9f26c.chunk.js.map",
+    "static/js/3.b48b0483.chunk.js": "/network-React-Redux/static/js/3.b48b0483.chunk.js",
+    "static/js/3.b48b0483.chunk.js.map": "/network-React-Redux/static/js/3.b48b0483.chunk.js.map",
+    "index.html": "/network-React-Redux/index.html",
+    "static/css/main.4bc64d06.chunk.css.map": "/network-React-Redux/static/css/main.4bc64d06.chunk.css.map",
+    "static/js/2.50b9f26c.chunk.js.LICENSE.txt": "/network-React-Redux/static/js/2.50b9f26c.chunk.js.LICENSE.txt",
+    "static/media/loader1.7343107b.svg": "/network-React-Redux/static/media/loader1.7343107b.svg",
+    "static/media/logo.6ce24c58.svg": "/network-React-Redux/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2689155f.js",
+    "static/js/2.50b9f26c.chunk.js",
+    "static/css/main.4bc64d06.chunk.css",
+    "static/js/main.30e1fd30.chunk.js"
+  ]
+}
